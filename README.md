@@ -30,7 +30,7 @@
 | 분류 | 프로젝트 명 | 주제 | 링크 | PR | 기간 |
 | :-----: | :-------------:| :-----------------------------: | :----------: | :---: | :---: |
 | 2차 프로젝트 | 티켓파리(TicketParis) | 인터파크 티켓 서비스 클론코딩 | [레포](https://github.com/prgrms-be-devcourse/BE-04-TICKETPARIS) | [PR](https://github.com/prgrms-be-devcourse/BE-04-TICKETPARIS/pulls?q=is%3Apr+is%3Aclosed+assignee%3Akylekim2123) | 2023.08.29 ~ 2023.09.22 |
-| 최종 프로젝트 | 픽플(Pickple) | 농구 게스트 및 팀원 모집 서비스 | [레포](https://github.com/Java-and-Script/pickple-back) | [PR](https://github.com/Java-and-Script/pickple-back/pulls?q=is%3Apr+is%3Aclosed+assignee%3Akylekim2123) | 2023.10.12 ~ 2023.12.07 |
+| 최종 프로젝트 | 픽플(Pickple) | 농구 게스트 및 팀원 모집 서비스 | [레포](https://github.com/Java-and-Script/pickple-back/wiki) | [PR](https://github.com/Java-and-Script/pickple-back/pulls?q=is%3Apr+is%3Aclosed+assignee%3Akylekim2123) | 2023.10.12 ~ 2023.12.05 |
 
 <br>
 
@@ -39,4 +39,4 @@
 | :------: | :-------------------------------------: | :-------: | :-------:|
 | 밑바닥 스터디 | Java, Spring의 주요 키워드에 관해 학습하고 <br> 서로 공유 및 토론하는 스터디| 2023.07 ~ 2023.10 | |
 | 알고리즘 스터디 | 알고리즘 문제를 풀고 토론하는 스터디 | 2023.07 ~ 2023.10 | |
-| CS 면접 스터디 | CS 지식에 대해 공부하고 모의 면접을 진행하는 스터디| 2023.10 ~ 2023.12 | [스터디 레포](https://github.com/backend-team-study/cs-study) |
+| CS 면접 스터디 | CS 지식에 대해 공부하고 모의 면접을 진행하는 스터디| 2023.10 ~ 진행중 | [스터디 레포](https://github.com/backend-team-study/cs-study) |
