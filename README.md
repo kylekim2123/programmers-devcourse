@@ -40,3 +40,12 @@
 | 밑바닥 스터디 | Java, Spring의 주요 키워드에 관해 학습하고 <br> 서로 공유 및 토론하는 스터디| 2023.07 ~ 2023.10 | |
 | 알고리즘 스터디 | 알고리즘 문제를 풀고 토론하는 스터디 | 2023.07 ~ 2023.10 | |
 | CS 면접 스터디 | CS 지식에 대해 공부하고 모의 면접을 진행하는 스터디| 2023.10 ~ 진행중 | [스터디 레포](https://github.com/backend-team-study/cs-study) |
+
+<br>
+
+## 💬 피어리뷰
+| 분류 | 리뷰 기간 | 링크 |
+| :------: | :-------: | :-------:|
+| 프리팀 | 2023.06.01 ~ 2023.06.16 | [리뷰 내용](https://github.com/kylekim2123/programmers-devcourse/blob/main/%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0/%5B%ED%94%84%EB%A6%AC%ED%8C%80%201%EC%B0%A8%5D%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4%204%EA%B8%B0%20%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0%20%EA%B9%80%EC%98%81%EC%A3%BC.pdf) |
+| 뉴팀 1차 | 2023.06.19 ~ 2023.08.04 | [리뷰 내용](https://github.com/kylekim2123/programmers-devcourse/blob/main/%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0/%5B%EB%89%B4%ED%8C%80%201%EC%B0%A8%5D%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4%204%EA%B8%B0%20%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0%20%EA%B9%80%EC%98%81%EC%A3%BC.pdf) |
+| 뉴팀 2차 | 2023.08.29 ~ 2023.09.22 | [리뷰 내용](https://github.com/kylekim2123/programmers-devcourse/blob/main/%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0/%5B%EB%89%B4%ED%8C%80%202%EC%B0%A8%5D%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4%204%EA%B8%B0%20%ED%94%BC%EC%96%B4%EB%A6%AC%EB%B7%B0%20%EA%B9%80%EC%98%81%EC%A3%BC.pdf) |
